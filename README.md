@@ -38,7 +38,7 @@ flask run
    ```cpp
    http://127.0.0.1:5000/
 
-🧠 Concepts Applied
+## 🧠 Concepts Applied
 Web development (Flask routing, templates, forms)
 
 User authentication (login sessions, password hashing)
@@ -49,7 +49,7 @@ SQL queries (SELECT, INSERT, UPDATE)
 
 RESTful APIs and JSON parsing
 
-📎 Folder Structure
+##📎 Folder Structure
 ```cpp
 /finance/
 ├── application.py
