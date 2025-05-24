@@ -39,6 +39,7 @@ flask run
    http://127.0.0.1:5000/
 
 ## Folder Structure
+```cpp
 /finance/
 ├── application.py
 ├── helpers.py
@@ -53,6 +54,7 @@ flask run
 ├── finance.db
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧠 Concepts Applied
 ```markdown
