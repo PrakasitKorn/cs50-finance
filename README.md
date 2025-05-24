@@ -49,6 +49,7 @@ Server-side validation and error handling
 SQL queries (SELECT, INSERT, UPDATE)
 
 RESTful APIs and JSON parsing
+```
 
 ##📎 Folder Structure
 ```cpp
