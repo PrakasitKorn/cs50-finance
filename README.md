@@ -39,6 +39,7 @@ flask run
    http://127.0.0.1:5000/
 
 ## 🧠 Concepts Applied
+```markdown
 Web development (Flask routing, templates, forms)
 
 User authentication (login sessions, password hashing)
