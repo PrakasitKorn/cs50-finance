@@ -38,20 +38,7 @@ flask run
    ```cpp
    http://127.0.0.1:5000/
 
-## 🧠 Concepts Applied
-```markdown
-Web development (Flask routing, templates, forms)
-
-User authentication (login sessions, password hashing)
-
-Server-side validation and error handling
-
-SQL queries (SELECT, INSERT, UPDATE)
-
-RESTful APIs and JSON parsing
-```
-##📎 Folder Structure
-```cpp
+## Folder Structure
 /finance/
 ├── application.py
 ├── helpers.py
@@ -66,3 +53,16 @@ RESTful APIs and JSON parsing
 ├── finance.db
 ├── requirements.txt
 └── README.md
+
+## 🧠 Concepts Applied
+```markdown
+Web development (Flask routing, templates, forms)
+
+User authentication (login sessions, password hashing)
+
+Server-side validation and error handling
+
+SQL queries (SELECT, INSERT, UPDATE)
+
+RESTful APIs and JSON parsing
+```
